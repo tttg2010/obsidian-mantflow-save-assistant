@@ -1,9 +1,9 @@
 {
-  "id": "ainote-sync",
-  "name": "曼塔收藏转存助手",
-  "version": "0.1.0",
-  "minAppVersion": "1.4.0",
-  "description": "定时从曼塔收藏转存助手云端拉取微信转发整理后的笔记，写入本地 Vault。",
-  "author": "MantFlow",
-  "isDesktopOnly": false
+    "id": "mantflow-save-assistant",
+    "name": "MantFlow Save Assistant",
+    "version": "0.1.0",
+    "minAppVersion": "1.4.0",
+    "description": "Automatically pulls notes from MantFlow and saves them to your local Obsidian Vault.",
+    "author": "MantFlow",
+    "isDesktopOnly": false
 }
