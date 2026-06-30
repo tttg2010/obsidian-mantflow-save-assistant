@@ -3,7 +3,7 @@
     "name": "MantFlow Save Assistant",
     "version": "0.1.0",
     "minAppVersion": "1.4.0",
-    "description": "Automatically pulls notes from MantFlow and saves them to your local Obsidian Vault.",
+    "description": "Automatically pulls notes from MantFlow and saves them to your local Vault.",
     "author": "MantFlow",
     "isDesktopOnly": false
 }
